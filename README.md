@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @plu-code
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning react
+- 📫 How to reach me https://github.com/plu-code
